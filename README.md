@@ -25,6 +25,27 @@ A worldwide box office data tracker covering **202 films across 23 franchises**.
 
 ---
 
+## 📊 Featured Project: reShift ROI Calculator
+
+**[Live site →](https://reshift-roi-calculator.web.app/)**
+
+![reShift ROI calculator screenshot](reshift-roi-top.jpg)
+
+An interactive savings calculator built for [reShift](https://reshiftapp.com), a break-management SaaS for restaurants. Enter a restaurant group's store count, staffing, and wages, and it models the real cost of manual break compliance against the cost of the software, then hands back a clear ROI number.
+
+**What it does:**
+- Calculates manager hours lost to manual break-schedule math, scaled by store count
+- Estimates break-penalty costs (the extra hour of pay many states require for missed or late breaks)
+- Compares total annual cost with and without the software, side by side
+- Surfaces a PAGA litigation benchmark for scale, since break violations are a leading trigger for those suits
+- Converts all of it into one number: return on investment
+
+![reShift ROI calculator summary](reshift-roi-summary.jpg)
+
+**Why it's here:** this is ROI modeling made tangible. Every input a prospect changes flows straight through to a dollar figure and a payback multiple, which is exactly the kind of business case a RevOps or sales team needs to make a deal easy to say yes to.
+
+---
+
 ### 🛠️ More Projects
 
 *(More to come, check back soon.)*
